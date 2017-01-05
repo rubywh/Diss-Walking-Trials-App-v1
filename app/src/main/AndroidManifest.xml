@@ -34,11 +34,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".SenseActivity"></activity>
-        <activity android:name=".HeightListActivity"></activity>
-        <activity android:name=".GenderListActivity"></activity>
-        <activity android:name=".AgeListActivity"></activity>
+        <activity android:name=".SenseActivity" />
+        <activity android:name=".HeightListActivity" />
+        <activity android:name=".GenderListActivity" />
+        <activity android:name=".AgeListActivity" />
 
         <service
             android:name=".WearableService"
